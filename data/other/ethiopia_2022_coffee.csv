@@ -1,0 +1,33 @@
+,RANK,SCORE,FARM,FARMER,REGION,WEIGHT (kg),VARIETY,PROCESS
+0,1a,90.69,Legese,Legese Botosa Dikale,Sidama,240,74158,Natural
+1,1b,90.69,Legese,Legese Botosa Dikale,Sidama,240,74158,Natural
+2,2,90.25,Kenean,Kenean Assefa Dukem,Sidama,165,74112,Anaerobic
+3,3a,90.19,A/ Temam,A/Tamam A/Oli A/Gojam,Oromia,540,74110,Washed
+4,3b,90.19,A/ Temam,A/Tamam A/Oli A/Gojam,Oromia,510,74110,Washed
+5,4,90.17,Bukato,Bukato Duge Bale,Sidama,540,74158,Natural
+6,5,90.08,Samuel,Samuel Zerihun Belachew,Sidama,285,74158,Natural
+7,6,89.92,Tilahune,Tilahune Horsa Fata,Sidama,870,74165,Natural
+8,7,89.78,Wolde,Wolde Faye Koricha,Oromia,240,74110,Natural
+9,8,89.56,Muluneh,Muluneh Tute Galcho,Sidama,645,74158,Natural
+10,9,89.36,Abebe,Abebe Hewiso Wicho,Sidama,795,74110,Natural
+11,10,88.78,Nare,Nare Ware Chinba,Sidama,915,74112,Natural
+12,11,88.44,Aman,Aman Gemeda Galcho,Oromiya,615,74112,Natural
+13,12,88.44,Yosefe Kasaye,Yosefe Kasaye Bora,SNNPR,195,744,Natural
+14,13,88.42,Abiyot,Abiyot Shonto Gelgele,SNNPR,585,74112,Natural
+15,14,88.33,Dush,Dush Lemiso Uke,Sidama,1020,74112,Natural
+16,15,88.31,Legese,Legese Rowa Dasso,Sidama,735,74158,Natural
+17,16,88.22,Butu Gelcha,Butu Galcha Bora,SNNPR,405,74112,Natural
+18,17,88.17,Yohannes,Yohannis Tadesse Taayee,Oromia,510,74110,Natural
+19,18,88.17,Alemayehu,Alemayehu Gosaye Gobena,SNNPR,525,74110,Natural
+20,19,88.11,Genale Gamada,Genale Gameda Mude,Sidama,150,74158,Natural
+21,20,88.11,Sentayehu,Sentayehu Mesele Yirgu,Sidama,270,74158,Natural
+22,21,88.06,Desalegn,Desalegn Abebe Adela,Oromiya,390,74112,Natural
+23,22,88.03,Bukku Abele,Kebede Genalle Arrare,Oromia,420,74110,Natural
+24,23,87.92,Awol,Awol Siraj Abdella,Oromia,330,74110,Natural
+25,24,87.92,Fuad,Fuad Feku Jibril,Oromiya,480,74112,Natural
+26,25,87.86,Tadesse,Tadesse Teko Teero,SNNPR,960,74112,Natural
+27,26,87.81,Ayele,Ayel Naramo Shalamo,Sidama,900,74158,Anaerobic
+28,27,87.75,Gemeda,Gemeda Kumi Qannoo,Oromia,225,74110,Natural
+29,28,87.28,Aberashe,Aberash Tabato Utala,SNNPR,960,74112,Natural
+30,29,87.17,Alem,Alema Shalo Gocha,SNNPR,315,74158,Anaerobic
+31,30,87.17,Geno,Geno Adula Sutiya,Oromiya,600,74110,Natural
