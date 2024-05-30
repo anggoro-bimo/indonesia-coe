@@ -18,6 +18,14 @@ Cup of Excellence is essentially a celebration of the skill and commitment that 
 
 All the data, including the historical COE results per country per year, is published on their official website: https://allianceforcoffeeexcellence.org/competition-auction-results/
 
-I do the web scraping with Python, using the requests and BeautifulSoup libraries. The detailed code can be checked at this link: [Web Scraping Notebook](https://colab.research.google.com/drive/1ON7HYpzdF-IZH_Sd9N9YjrgDWX1NoQxg?usp=sharing&source=post_page-----c17811366a33--------------------------------)
+I do the web scraping with Python, using the requests and BeautifulSoup libraries. The detailed code can be checked at this link: [Web Scraping Google Colab Notebook](https://colab.research.google.com/drive/1ON7HYpzdF-IZH_Sd9N9YjrgDWX1NoQxg?usp=sharing&source=post_page-----c17811366a33--------------------------------) or [Github](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/01.%20website_scraping%20.ipynb)
 
 The web scraping tutorial for this project is also published at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-c17811366a33)
+
+### 2. Data Collection
+
+By compiling the code for web scraping, I define a function to extract the data from the official websites and save it to local storage as .csv files.
+
+The .py file can be checked at this link: [website_scraping.py](https://github.com/anggoro-bimo/indonesia-coe/blob/main/src/website_scraping.py)
+
+The published article for the data collection step of this project can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-190e63bbe4b7)
