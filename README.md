@@ -29,3 +29,12 @@ By compiling the code for web scraping, I define a function to extract the data 
 The .py file can be checked at this link: [website_scraping.py](https://github.com/anggoro-bimo/indonesia-coe/blob/main/src/website_scraping.py)
 
 The published article for the data collection step of this project can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-190e63bbe4b7)
+
+
+### 3. Data Remediation
+
+The raw data was prepared and transformed into a usable format for analysis. After being cleaned to correct errors and remove inconsistencies, the data is then integrated into a cohesive dataset, often enriched with additional context to enhance its utility. Once the data remediation stage is complete, the cleaned and organized data is ready for analysis, enabling meaningful insights and informed decision-making.
+
+The published article for this stage can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-190e63bbe4b7)
+
+While the detailed code can be checked at this link: [Data Wrangling Notebook](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/03.%20data_wrangling.ipynb)
