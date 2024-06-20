@@ -1,4 +1,4 @@
-,Year,Rank,Score,Farm,Farmer,Region,Process,Variety_1,Variety_2,Variety_3,Variety_4,Weight (Lbs),High Bid (US$),Total Value (US$),Company Name
+,Year,Rank,Score,Farm,Farmer,Region,Process,Variety_1,Variety_2,Variety_3,Variety_4,Weight (Lbs),High Bid (US$),Total Value (US$),Buyer
 0,2021,1,89.28,Pantan Musara,Dilen Ali Gogo,Aceh,Honey,Ateng,Gayo 1,P88,,462.97,80.0,37037.600000000006,Wataru for YAMATOYA COFFEE
 1,2021,2,89.04,Ibun Ita,Ita Rosita,Jawa Barat,Natural,Sigararutang,,,,410.06,65.2,26735.912,Proud Mary Coffee Roasters
 2,2021,3,88.89,Pantan Musara,Roberto Bagus Syahputra,Aceh,Washed,Ateng,Gayo 1,P88,,577.61,69.1,39912.851,Terarosa (Haksan Co. Ltd)
@@ -25,51 +25,51 @@
 23,2021,24,87.21,Bukit Sama,Dasimah Hakim,Aceh,Wet Hull,Ateng,,,,454.15,23.0,10445.45,Wataru for Voila Coffee
 24,2021,25,87.16,Wajamala,Marselina Walu,NTT,Washed,S-795,,,,478.4,18.2,8706.88,"Wataru & Co., Ltd."
 25,2021,26,87.1,HT Farm,Mukhlis M,Jambi,Washed,Andungsari,Sigararutang,,,396.83,17.6,6984.2080000000005,Blooms Ltd
-0,2022,1A,90.59,Koperasi Ribang Gayo Musara,Bahagia Ginting,Aceh,Natural,Ateng,P-88,,,429.9,40.2,17281.98,Sulalat Coffee Trading
-1,2022,1B,90.59,Koperasi Ribang Gayo Musara,Bahagia Ginting,Aceh,Natural,Ateng,P-88,,,396.83,40.2,15952.566,"Coffee Beyond Borders for Uminomuko Coffee, Xtrat"
-2,2022,2,89.85,Pegasing Takengon Utara,PT. Biji Kopi Internusa,Aceh,Natural,Sigararutang,Typica,,,595.25,20.2,12024.05,La Boheme Cafe
-3,2022,3,89.59,Frinsa Weninggalih,Yasmin Nabila Salsabila,Jawa Barat,Anaerobic Natural,S-795,P-88,Bourbon,Sigararutang,595.25,26.9,16012.225,"Coffee Beyond Borders for Uminomuko Coffee, Xtrat"
-4,2022,4,89.18,Koperasi Ribang Gayo Musara,Zakiah,Aceh,Natural,Ateng,P-88,Bourbon,,793.66,15.2,12063.632,La Boheme Cafe & Huracan Coffee
-5,2022,5,89.15,Koperasi Ribang Gayo Musara,Dimas Apriandi,Aceh,Washed,Ateng,P-88,,,793.66,13.5,10714.41,Kyokuto Fadie Corporation
-6,2022,6,88.91,Panangan Mata Takengon Utara,Christian,Aceh,Honey,Sigararutang,Typica,,,562.18,14.1,7926.737999999999,"Coffee Therapy (Thailand), Coffee Me Up (Korea), Dabov Specialty Coffee (Bulgaria), BIG BLACK BOX (Thailand), Casa Lapin (Thailand), MARISSTELLA COFFEE (Korea)"
-7,2022,7,88.68,Koperasi Ribang Gayo Musara,Asman Arianto,Aceh,Honey,Ateng,P-88,Bourbon,,826.73,19.55,16162.571500000002,Coffee Beyond Borders for Uminomuko Coffee
-8,2022,8,88.5,Koperasi Ribang Gayo Musara,Dilen Ali Gogo,Aceh,Honey,Ateng,P-88,Bourbon,,793.66,10.7,8492.161999999998,Kyokuto Fadie Corporation
-9,2022,9,88.09,Terang Ulen,Fahman Yoga,Aceh,Wet Hulled,Ateng,Tim-Tim,Typica,,562.18,20.2,11356.035999999998,Blue Bottle Coffee
-10,2022,10,87.85,"Ceding Ayu, Pantan Musara",Drs Hamdan,Aceh,Carbonic Maceration Honey,Ateng,Typica,Caturra,P-88,562.18,13.3,7476.994,"Dabov Specialty Coffee, Coffee Therapy (Thailand), Joy Coffee & Cacao"
-11,2022,11,87.74,Renggali,Hakem Murtada,Aceh,Wet Hulled,Typica,Ateng,Other (unspecified),,694.46,9.7,6736.262,"Wataru & Co., Ltd."
-12,2022,12,87.74,Koerintji Barokah Group,Abdul Aziz Thohari,Jambi,Lactic Natural,Sigararutang,Andungsari,,,595.25,20.1,11964.525,SARUTAHIKO COFFEE
-13,2022,13,87.65,Koerintji Farm,Ahmad Abi Sodik,Jambi,Washed,Sigararutang,Andungsari,,,562.18,14.5,8151.61,Wataru for Voila Coffee
-14,2022,14,87.62,"Ceding Ayu, Pantan Musara",Eriyani N,Aceh,Anaerobic Natural,Ateng,Typica,Caturra,P-88,793.66,14.6,11587.436,Campos Coffee
-15,2022,15,87.62,Ijen,Dandy Dharmawan,Jawa Timur,Anaerobic Natural,USDA,Kartika,,,1058.2,10.1,10687.82,SUPREMO COFFEE
-16,2022,16,87.59,Avatara Coffee,Hendra Maulizar,Aceh,Washed,P-88,Ateng,Other (unspecified),Typica,562.18,10.9,6127.762,"UCC UESHIMA COFFEE CO.,LTD"
-17,2022,17,87.53,Koperasi Ribang Gayo Musara,Rudi Suwito,Aceh,Washed,Ateng,P-88,Gayo 1,,793.66,12.8,10158.848,honu加藤珈琲店株式会社
-18,2022,18,87.47,Koperasi Ribang Gayo Musara,Roberto Bagus Syahputra,Aceh,Washed,Ateng,P-88,,,793.66,13.2,10476.312,TAKAMURA COFFEE ROASTERS By Marukai and Idle Hands Roasting Company
-19,2022,19,87.35,Tunas Baru Farm,Irwandi,Jambi,Anaerobic Natural,Sigararutang,Andungsari,,,595.25,10.1,6012.025,"Coffee Tech Limited (NZ)/coffee-tech.co.nz Upstream Coffee Imports , Marukai corporation ,Slick Coffee Co."
-20,2022,20,87.15,Dasimah bukit sama,Yurda,Aceh,Honey,Ateng,,,,562.18,9.0,5059.62,"Wataru & Co., Ltd."
-21,2022,21,87.15,Jaya Tani Farm,Triyono,Jambi,Anaerobic Natural,S-795,Sigararutang,Andungsari,,595.25,20.1,11964.525,"Coffee Tech Limited (NZ)/coffee-tech.co.nz Cut Hand Group（剁手咖啡群）& Kinglo Coffee（轻乐咖）, Ryans Coffee Roasters , 群果貿易 Cheerbeans trading Co Ltd Taiwan , L’escargot d’or cosmetocafe ,Slick Coffee Co."
-22,2022,22,87.06,Koperasi Ribang Gayo Musara,Victor Nopriansyah,Aceh,Washed,Ateng,,,,826.73,9.7,8019.281,"Wataru & Co., Ltd."
-0,2023,1A,91.41,Ijen Lestari,Dandy Dharmawan,Jawa Timur,Carbonic Maceration Natural,USDA 762,Kartika,,,396.83,45.5,18055.765,"Orsir International Co., Ltd."
-1,2023,1B,91.41,Ijen Lestari,Dandy Dharmawan,Jawa Timur,Carbonic Maceration Natural,USDA 762,Kartika,,,391.19,43.6,17055.884000000002,SAVAYA Coffee Market – USA WAVY Coffee Roasters and GLITCH Coffee& Roasters by Marukai – Japan L’escargot d’or cosmetocafe – France
-2,2023,2A,90.35,Wajamala,Marselina Walu,NTT,Dry Hulled,S-795,Typica,,,330.69,30.0,9920.7,"Coffee Me Up (Korea), Slick Coffee Co., Coffee Therapy (Thailand), Lotus Lab"
-3,2023,2B,90.35,Wajamala,Marselina Walu,NTT,Dry Hulled,S-795,Typica,,,295.11,30.5,9000.855,"BIG BLACK BOX (Thailand), Casa Lapin, Koff&Bun, Nicherry"
-4,2023,3A,90.06,Angin-angin,Yolan Tirta,Sulawesi Selatan,Honey,Lini S-795,,,,298.51,26.25,7835.8875,"BLACK GOLD COFFEE (TAIWAN), COFFEE PARTNER INTERNATIONAL (INDONESIA)"
-5,2023,3B,90.06,Angin-angin,Yolan Tirta,Sulawesi Selatan,Honey,Lini S-795,,,,264.55,27.3,7222.215,CHG（手多多咖啡）
-6,2023,4,90.06,Avarata Coffee,Hendra Maulizar,Aceh,Natural,Ateng,P-88,Other (unspecified),Typica,582.5,10.0,5825.0,Coffee Beyond Borders
-7,2023,5,89.47,Central Sumatera Coffee,Enzo Sauqi Hutabarat,Aceh,Natural,Typica,Abyssinia,Bourbon,,773.16,8.6,6649.176,List & Beisler LA BOHEME
-8,2023,6,89.35,Wanoja Coffee Plot Hj. Eti Sumiati,Hj. Eti Sumiati,Jawa Barat,Honey,Sigararutang,Ateng,S-795,,568.48,10.37,5895.1376,SAVAYA COFFEE MARKET – USA LaB Coffee & Roasters
-9,2023,7,89.21,Atang Jungket,Syafjurian Putra,Aceh,Natural,Gayo 3,Gayo 1,,,581.18,15.8,9182.644,Coffee Beyond Borders
-10,2023,8,89.15,Rantekarua Coffee Plantation PT. Sulotco Jaya Abadi,Samuel Karundeng,Sulawesi Selatan,Natural,Caturra,S-795,USDA,,571.53,9.3,5315.229,"La Pluma & Bohemian, ESCUDO COFFEE"
-11,2023,9,88.38,PT. De Gayo Agri Indonesia,Fauziah,Aceh,Natural,Ateng,,,,573.95,11.8,6772.610000000001,Sulalat Coffee Trading
-12,2023,10,88.15,Finca De Berman,Diki Wahyudin,Jawa Barat,Honey Anaerobic,S-795,Ateng,,,608.65,9.0,5477.849999999999,"Wataru & Co., Ltd."
-13,2023,11,88.06,Koperasi Ribang Gayo Musara,Zakiah,Aceh,Natural,Ateng,P-88,,,723.51,7.0,5064.57,"Wataru & Co., Ltd."
-14,2023,12,88.03,Pelage Coffee,I Wayan Suparta,Bali,Dry Hulled,Kopyol,,,,571.0,8.6,4910.599999999999,"Wataru & Co., Ltd."
-15,2023,13,87.97,Bengkolan Dua Farm,Nurdianingsih,Aceh,Dry Hulled,Ateng,Sigararutang,,,584.22,10.2,5959.044,"Wataru & Co., Ltd."
-16,2023,14,87.97,Blok Emper,Eka Teguh Kurniawan,Jawa Barat,Honey double fermentation,Sigararutang,Andungsari,,,574.88,11.11,6386.9168,"MUSEO Co., Ltd."
-17,2023,15,87.82,Wanoja Coffee Plot Satrea Amambi,Satrea Amambi,Jawa Barat,Natural,Ateng,S-795,Sigararutang,,584.53,10.9,6371.377,M.I.Coffee Corporation
-18,2023,16,87.65,Wanoja Coffee Plot Ita Rosita,Ita Rosita,Jawa Barat,Natural,Sigararutang,,,,566.19,11.1,6284.709000000001,Wataru for Voila Coffee
-19,2023,17,87.59,Weninggalih,Yasmin Nabila Salsabila,Jawa Barat,Natural,Ateng,Sigararutang,S-795,P-88,578.14,10.2,5897.027999999999,SUPREMO COFFEE – Germany
-20,2023,18,87.47,Kian Mandiri Farm,Zainal Arifin,Aceh,Mossto Natural,Ateng,P-88,Typica,,621.44,10.2,6338.688,Campos Coffee
-21,2023,19,87.35,Siluk Coffee,Marjan,Aceh,Wet Hulled,Ateng,,,,898.03,13.6,12213.208,Coffee Beyond Borders
-22,2023,20,87.35,Suket Mountain/Gunung Suket,Supriyanto,Jawa Timur,Natural,Bourbon,Typica,,,908.3,6.25,5676.875,"Wataru & Co., Ltd."
-23,2023,21,87.32,Rukun Saudara Farm,Abdul Aziz Thohari,Jambi,Honey Caramella,Sigararutang,Andungsari,,,588.37,16.4,9649.268,Solberg & Hansen
-24,2023,22,87.24,Empus Reje Guru,Ferri Padli,Aceh,Natural,Red Bourbon,,,,577.39,8.45,4878.9455,"Cuppers of Korea, Woojongho Coffee, Imbarista, Five_C_CoffeeWorks, AG COFFEE, Q_coffee_lab, Look at the Barista"
+26,2022,1A,90.59,Koperasi Ribang Gayo Musara,Bahagia Ginting,Aceh,Natural,Ateng,P-88,,,429.9,40.2,17281.98,Sulalat Coffee Trading
+27,2022,1B,90.59,Koperasi Ribang Gayo Musara,Bahagia Ginting,Aceh,Natural,Ateng,P-88,,,396.83,40.2,15952.566,"Coffee Beyond Borders for Uminomuko Coffee, Xtrat"
+28,2022,2,89.85,Pegasing Takengon Utara,PT. Biji Kopi Internusa,Aceh,Natural,Sigararutang,Typica,,,595.25,20.2,12024.05,La Boheme Cafe
+29,2022,3,89.59,Frinsa Weninggalih,Yasmin Nabila Salsabila,Jawa Barat,Anaerobic Natural,S-795,P-88,Bourbon,Sigararutang,595.25,26.9,16012.225,"Coffee Beyond Borders for Uminomuko Coffee, Xtrat"
+30,2022,4,89.18,Koperasi Ribang Gayo Musara,Zakiah,Aceh,Natural,Ateng,P-88,Bourbon,,793.66,15.2,12063.632,La Boheme Cafe & Huracan Coffee
+31,2022,5,89.15,Koperasi Ribang Gayo Musara,Dimas Apriandi,Aceh,Washed,Ateng,P-88,,,793.66,13.5,10714.41,Kyokuto Fadie Corporation
+32,2022,6,88.91,Panangan Mata Takengon Utara,Christian,Aceh,Honey,Sigararutang,Typica,,,562.18,14.1,7926.737999999999,"Coffee Therapy (Thailand), Coffee Me Up (Korea), Dabov Specialty Coffee (Bulgaria), BIG BLACK BOX (Thailand), Casa Lapin (Thailand), MARISSTELLA COFFEE (Korea)"
+33,2022,7,88.68,Koperasi Ribang Gayo Musara,Asman Arianto,Aceh,Honey,Ateng,P-88,Bourbon,,826.73,19.55,16162.571500000002,Coffee Beyond Borders for Uminomuko Coffee
+34,2022,8,88.5,Koperasi Ribang Gayo Musara,Dilen Ali Gogo,Aceh,Honey,Ateng,P-88,Bourbon,,793.66,10.7,8492.161999999998,Kyokuto Fadie Corporation
+35,2022,9,88.09,Terang Ulen,Fahman Yoga,Aceh,Wet Hulled,Ateng,Tim-Tim,Typica,,562.18,20.2,11356.035999999998,Blue Bottle Coffee
+36,2022,10,87.85,"Ceding Ayu, Pantan Musara",Drs Hamdan,Aceh,Carbonic Maceration Honey,Ateng,Typica,Caturra,P-88,562.18,13.3,7476.994,"Dabov Specialty Coffee, Coffee Therapy (Thailand), Joy Coffee & Cacao"
+37,2022,11,87.74,Renggali,Hakem Murtada,Aceh,Wet Hulled,Typica,Ateng,Other (unspecified),,694.46,9.7,6736.262,"Wataru & Co., Ltd."
+38,2022,12,87.74,Koerintji Barokah Group,Abdul Aziz Thohari,Jambi,Lactic Natural,Sigararutang,Andungsari,,,595.25,20.1,11964.525,SARUTAHIKO COFFEE
+39,2022,13,87.65,Koerintji Farm,Ahmad Abi Sodik,Jambi,Washed,Sigararutang,Andungsari,,,562.18,14.5,8151.61,Wataru for Voila Coffee
+40,2022,14,87.62,"Ceding Ayu, Pantan Musara",Eriyani N,Aceh,Anaerobic Natural,Ateng,Typica,Caturra,P-88,793.66,14.6,11587.436,Campos Coffee
+41,2022,15,87.62,Ijen,Dandy Dharmawan,Jawa Timur,Anaerobic Natural,USDA,Kartika,,,1058.2,10.1,10687.82,SUPREMO COFFEE
+42,2022,16,87.59,Avatara Coffee,Hendra Maulizar,Aceh,Washed,P-88,Ateng,Other (unspecified),Typica,562.18,10.9,6127.762,"UCC UESHIMA COFFEE CO.,LTD"
+43,2022,17,87.53,Koperasi Ribang Gayo Musara,Rudi Suwito,Aceh,Washed,Ateng,P-88,Gayo 1,,793.66,12.8,10158.848,honu加藤珈琲店株式会社
+44,2022,18,87.47,Koperasi Ribang Gayo Musara,Roberto Bagus Syahputra,Aceh,Washed,Ateng,P-88,,,793.66,13.2,10476.312,TAKAMURA COFFEE ROASTERS By Marukai and Idle Hands Roasting Company
+45,2022,19,87.35,Tunas Baru Farm,Irwandi,Jambi,Anaerobic Natural,Sigararutang,Andungsari,,,595.25,10.1,6012.025,"Coffee Tech Limited (NZ)/coffee-tech.co.nz Upstream Coffee Imports , Marukai corporation ,Slick Coffee Co."
+46,2022,20,87.15,Dasimah bukit sama,Yurda,Aceh,Honey,Ateng,,,,562.18,9.0,5059.62,"Wataru & Co., Ltd."
+47,2022,21,87.15,Jaya Tani Farm,Triyono,Jambi,Anaerobic Natural,S-795,Sigararutang,Andungsari,,595.25,20.1,11964.525,"Coffee Tech Limited (NZ)/coffee-tech.co.nz Cut Hand Group（剁手咖啡群）& Kinglo Coffee（轻乐咖）, Ryans Coffee Roasters , 群果貿易 Cheerbeans trading Co Ltd Taiwan , L’escargot d’or cosmetocafe ,Slick Coffee Co."
+48,2022,22,87.06,Koperasi Ribang Gayo Musara,Victor Nopriansyah,Aceh,Washed,Ateng,,,,826.73,9.7,8019.281,"Wataru & Co., Ltd."
+49,2023,1A,91.41,Ijen Lestari,Dandy Dharmawan,Jawa Timur,Carbonic Maceration Natural,USDA 762,Kartika,,,396.83,45.5,18055.765,"Orsir International Co., Ltd."
+50,2023,1B,91.41,Ijen Lestari,Dandy Dharmawan,Jawa Timur,Carbonic Maceration Natural,USDA 762,Kartika,,,391.19,43.6,17055.884000000002,SAVAYA Coffee Market – USA WAVY Coffee Roasters and GLITCH Coffee& Roasters by Marukai – Japan L’escargot d’or cosmetocafe – France
+51,2023,2A,90.35,Wajamala,Marselina Walu,NTT,Dry Hulled,S-795,Typica,,,330.69,30.0,9920.7,"Coffee Me Up (Korea), Slick Coffee Co., Coffee Therapy (Thailand), Lotus Lab"
+52,2023,2B,90.35,Wajamala,Marselina Walu,NTT,Dry Hulled,S-795,Typica,,,295.11,30.5,9000.855,"BIG BLACK BOX (Thailand), Casa Lapin, Koff&Bun, Nicherry"
+53,2023,3A,90.06,Angin-angin,Yolan Tirta,Sulawesi Selatan,Honey,Lini S-795,,,,298.51,26.25,7835.8875,"BLACK GOLD COFFEE (TAIWAN), COFFEE PARTNER INTERNATIONAL (INDONESIA)"
+54,2023,3B,90.06,Angin-angin,Yolan Tirta,Sulawesi Selatan,Honey,Lini S-795,,,,264.55,27.3,7222.215,CHG（手多多咖啡）
+55,2023,4,90.06,Avarata Coffee,Hendra Maulizar,Aceh,Natural,Ateng,P-88,Other (unspecified),Typica,582.5,10.0,5825.0,Coffee Beyond Borders
+56,2023,5,89.47,Central Sumatera Coffee,Enzo Sauqi Hutabarat,Aceh,Natural,Typica,Abyssinia,Bourbon,,773.16,8.6,6649.176,List & Beisler LA BOHEME
+57,2023,6,89.35,Wanoja Coffee Plot Hj. Eti Sumiati,Hj. Eti Sumiati,Jawa Barat,Honey,Sigararutang,Ateng,S-795,,568.48,10.37,5895.1376,SAVAYA COFFEE MARKET – USA LaB Coffee & Roasters
+58,2023,7,89.21,Atang Jungket,Syafjurian Putra,Aceh,Natural,Gayo 3,Gayo 1,,,581.18,15.8,9182.644,Coffee Beyond Borders
+59,2023,8,89.15,Rantekarua Coffee Plantation PT. Sulotco Jaya Abadi,Samuel Karundeng,Sulawesi Selatan,Natural,Caturra,S-795,USDA,,571.53,9.3,5315.229,"La Pluma & Bohemian, ESCUDO COFFEE"
+60,2023,9,88.38,PT. De Gayo Agri Indonesia,Fauziah,Aceh,Natural,Ateng,,,,573.95,11.8,6772.610000000001,Sulalat Coffee Trading
+61,2023,10,88.15,Finca De Berman,Diki Wahyudin,Jawa Barat,Honey Anaerobic,S-795,Ateng,,,608.65,9.0,5477.849999999999,"Wataru & Co., Ltd."
+62,2023,11,88.06,Koperasi Ribang Gayo Musara,Zakiah,Aceh,Natural,Ateng,P-88,,,723.51,7.0,5064.57,"Wataru & Co., Ltd."
+63,2023,12,88.03,Pelage Coffee,I Wayan Suparta,Bali,Dry Hulled,Kopyol,,,,571.0,8.6,4910.599999999999,"Wataru & Co., Ltd."
+64,2023,13,87.97,Bengkolan Dua Farm,Nurdianingsih,Aceh,Dry Hulled,Ateng,Sigararutang,,,584.22,10.2,5959.044,"Wataru & Co., Ltd."
+65,2023,14,87.97,Blok Emper,Eka Teguh Kurniawan,Jawa Barat,Honey double fermentation,Sigararutang,Andungsari,,,574.88,11.11,6386.9168,"MUSEO Co., Ltd."
+66,2023,15,87.82,Wanoja Coffee Plot Satrea Amambi,Satrea Amambi,Jawa Barat,Natural,Ateng,S-795,Sigararutang,,584.53,10.9,6371.377,M.I.Coffee Corporation
+67,2023,16,87.65,Wanoja Coffee Plot Ita Rosita,Ita Rosita,Jawa Barat,Natural,Sigararutang,,,,566.19,11.1,6284.709000000001,Wataru for Voila Coffee
+68,2023,17,87.59,Weninggalih,Yasmin Nabila Salsabila,Jawa Barat,Natural,Ateng,Sigararutang,S-795,P-88,578.14,10.2,5897.027999999999,SUPREMO COFFEE – Germany
+69,2023,18,87.47,Kian Mandiri Farm,Zainal Arifin,Aceh,Mossto Natural,Ateng,P-88,Typica,,621.44,10.2,6338.688,Campos Coffee
+70,2023,19,87.35,Siluk Coffee,Marjan,Aceh,Wet Hulled,Ateng,,,,898.03,13.6,12213.208,Coffee Beyond Borders
+71,2023,20,87.35,Suket Mountain/Gunung Suket,Supriyanto,Jawa Timur,Natural,Bourbon,Typica,,,908.3,6.25,5676.875,"Wataru & Co., Ltd."
+72,2023,21,87.32,Rukun Saudara Farm,Abdul Aziz Thohari,Jambi,Honey Caramella,Sigararutang,Andungsari,,,588.37,16.4,9649.268,Solberg & Hansen
+73,2023,22,87.24,Empus Reje Guru,Ferri Padli,Aceh,Natural,Red Bourbon,,,,577.39,8.45,4878.9455,"Cuppers of Korea, Woojongho Coffee, Imbarista, Five_C_CoffeeWorks, AG COFFEE, Q_coffee_lab, Look at the Barista"
