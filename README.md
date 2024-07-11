@@ -38,3 +38,12 @@ The raw data was prepared and transformed into a usable format for analysis. Aft
 The published article for this stage can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-190e63bbe4b7)
 
 While the detailed code can be checked at this link: [Data Wrangling Notebook](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/03.%20data_wrangling.ipynb)
+
+
+### 4. EDA for The Numerical Features
+
+The combined dataset from Indonesia's COE outcomes during the three years of participation is currently available, and we are now proceeding with the exploratory data analysis (EDA) for the numerical features. We investigate and analyze the data in this step to identify its characteristics.
+
+The published article for this stage can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-128d6db079e3)
+
+While the detailed code can be checked at this link: [Numerical Features EDA Notebook](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/04.%20eda_num.ipynb)
