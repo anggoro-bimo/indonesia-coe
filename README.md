@@ -47,3 +47,9 @@ The combined dataset from Indonesia's COE outcomes during the three years of pa
 The published article for this stage can be read at this link: [Medium Article](https://medium.com/@anggoro-bimo/indonesia-cup-of-excellence-exposing-indonesian-diversity-of-delicacies-through-coffee-128d6db079e3)
 
 While the detailed code can be checked at this link: [Numerical Features EDA Notebook](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/04.%20eda_num.ipynb)
+
+### 5. EDA for The Categorical Features
+
+Now we assess the categorical features on the combined dataset from Indonesia COE.  Several anomalies in the data's nomenclature were discovered at this point and will be fixed in consultation with the coffee expert throughout the data validation stage.
+
+The detailed code can be checked at this link: [Categorical Features EDA Notebook](https://github.com/anggoro-bimo/indonesia-coe/blob/main/notebooks/05.%20eda_cat.ipynb)
